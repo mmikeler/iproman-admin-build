@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.33cbbeed.css",
-    "main.js": "./static/js/main.930a5c4f.js",
+    "main.css": "./static/css/main.5d27b76f.css",
+    "main.js": "./static/js/main.eb7a72df.js",
     "static/js/787.58602059.chunk.js": "./static/js/787.58602059.chunk.js",
     "static/media/Ptrootuibold.woff": "./static/media/Ptrootuibold.d94e1d789348d7591dab.woff",
     "static/media/Ptrootui.woff": "./static/media/Ptrootui.10a42f3ae432b663e98b.woff",
     "static/media/avatar.jpg": "./static/media/avatar.4aa827c3440249505e81.jpg",
+    "static/media/WhatsApp.svg": "./static/media/WhatsApp.1d702214c579c80e7f7c.svg",
+    "static/media/ok.svg": "./static/media/ok.75f530aa6d2a8e57c8b5.svg",
+    "static/media/vk.svg": "./static/media/vk.bd141845fe140f431814.svg",
+    "static/media/Viber.svg": "./static/media/Viber.64ee8ea80d5a4da1cde3.svg",
+    "static/media/Telegram.svg": "./static/media/Telegram.3f7eb55be6aba02170cd.svg",
+    "static/media/fb.svg": "./static/media/fb.781ea6e4bc15534cbe24.svg",
     "index.html": "./index.html",
-    "main.33cbbeed.css.map": "./static/css/main.33cbbeed.css.map",
-    "main.930a5c4f.js.map": "./static/js/main.930a5c4f.js.map",
+    "static/media/+.svg": "./static/media/+.da2320af821ee55cc87d8ba2a8b6cea4.svg",
+    "main.5d27b76f.css.map": "./static/css/main.5d27b76f.css.map",
+    "main.eb7a72df.js.map": "./static/js/main.eb7a72df.js.map",
     "787.58602059.chunk.js.map": "./static/js/787.58602059.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33cbbeed.css",
-    "static/js/main.930a5c4f.js"
+    "static/css/main.5d27b76f.css",
+    "static/js/main.eb7a72df.js"
   ]
 }
